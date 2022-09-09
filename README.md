@@ -1,16 +1,22 @@
-### Hi there 👋
+<div>
+  <a href="https://stansign.github.io/">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://stansign.github.io/"
+style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
+</div>
 
-<!--
-**StanSign/StanSign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Education
 
-Here are some ideas to get you started:
+- **인천대학교 정보기술대학 임베디드시스템공학과 `재학`** (2015.03 ~ )<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋🏻‍♂️ Experiences
+
+- **여기에 뭔가 적을 수 있는 그때까지🔥** </br>
+
+### 💾 Projects
+
+- 🏠 **Light Me** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)]
+
+
+### ✍ Recent Blog Posts 
+- [🍎Swift - ARC(strong, weak, unowned)](https://stansign.github.io/blog/Swift09) <br>
