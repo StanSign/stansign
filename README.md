@@ -1,9 +1,11 @@
 <div>
-  <a href="https://stansign.github.io/">
+  <a href="https://stansign.github.io/"></a>
 <img
 src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://stansign.github.io/"
 style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 </div>
+
+<br/>
 
 ### 📚 Education
 
@@ -11,12 +13,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 🙋🏻‍♂️ Experiences
 
-- **여기에 뭔가 적을 수 있는 그때까지🔥** </br>
+- **여기에 뭔가 적을 수 있는 그때까지** 🔥 </br>
 
 ### 💾 Projects
 
-- 🏠 **Light Me** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)]
+- 🏠 **LightMe** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)]
 
+### ✍ Recent Blog Posts
 
-### ✍ Recent Blog Posts 
-- [🍎Swift - ARC(strong, weak, unowned)](https://stansign.github.io/blog/Swift09) <br>
+- [🍎 Swift - ARC(strong, weak, unowned)](https://stansign.github.io/blog/Swift09) <br>
