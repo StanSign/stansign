@@ -21,6 +21,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="left"/>
 
 ### ✍ Recent Blog Posts
 
+- [🧰 Swift - 용어 정리](https://stansign.github.io/blog/Allen04) <br>
+- [🧰 Swift - 데이터 타입](https://stansign.github.io/blog/Allen03) <br>
 - [🍎Swift - Struct vs Class](https://stansign.github.io/blog/Swift10) <br>
 - [🧰 Swift - 컴퓨터의 동작 원리](https://stansign.github.io/blog/Allen01) <br>
 - [🍎 Swift - ARC(strong, weak, unowned)](https://stansign.github.io/blog/Swift09) <br>
