@@ -21,6 +21,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="left"/>
 
 ### ✍ Recent Blog Posts
 
+- [🧰 Swift - 프로그래밍 기본 원리와 조건문](https://stansign.github.io/blog/Allen06) <br>
+- [🧰 Swift - 기본연산자](https://stansign.github.io/blog/Allen05) <br>
 - [🍎Swift - View Controller의 Life Cycle](https://stansign.github.io/blog/Swift11) <br>
 - [🧰 Swift - 용어 정리](https://stansign.github.io/blog/Allen04) <br>
 - [🧰 Swift - 데이터 타입](https://stansign.github.io/blog/Allen03) <br>
