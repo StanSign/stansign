@@ -21,13 +21,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="left"/>
 
 ### ✍ Recent Blog Posts
 
+- [🧰 Swift - Optional](https://stansign.github.io/blog/Allen16) <br>
+- [🧰 Swift - discardableResult](https://stansign.github.io/blog/Allen15) <br>
+- [🧰 Swift - guard](https://stansign.github.io/blog/Allen14) <br>
+- [🧰 Swift - inout](https://stansign.github.io/blog/Allen13) <br>
+- [🧰 Swift - 함수.03](https://stansign.github.io/blog/Allen12) <br>
 - [🧰 Swift - 함수.02](https://stansign.github.io/blog/Allen11) <br>
 - [🧰 Swift - 함수.01](https://stansign.github.io/blog/Allen10) <br>
 - [🧰 Swift - 반복문](https://stansign.github.io/blog/Allen09) <br>
 - [🧰 Swift - 삼항연산자와 범위연산자](https://stansign.github.io/blog/Allen08) <br>
 - [🧰 Swift - 튜플(Tuple)](https://stansign.github.io/blog/Allen07) <br>
-- [🧰 Swift - 프로그래밍 기본 원리와 조건문](https://stansign.github.io/blog/Allen06) <br>
-- [🧰 Swift - 기본연산자](https://stansign.github.io/blog/Allen05) <br>
-- [🍎Swift - View Controller의 Life Cycle](https://stansign.github.io/blog/Swift11) <br>
-- [🧰 Swift - 용어 정리](https://stansign.github.io/blog/Allen04) <br>
-- [🧰 Swift - 데이터 타입](https://stansign.github.io/blog/Allen03) <br>
