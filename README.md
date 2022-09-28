@@ -1,6 +1,9 @@
 <div>
-<img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://stansign.github.io/"
-style="height : auto; margin-left : 10px; margin-right : 10px;" align="left"/>
+  <a href="https://stansign.github.io/">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://stansign.github.io/"
+style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
+</a>
 </div>
 
 <br/>
