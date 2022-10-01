@@ -11,10 +11,11 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 ### 📚 Education
 
 - **인천대학교 정보기술대학 임베디드시스템공학과 `재학`** (2015.03 ~ )<br/>
+- **앨런 Swift문법 마스터 스쿨 `수강 중`** (2022.09 ~ 2022.12)<br/>
 
 ### 🙋🏻‍♂️ Experiences
 
-- **여기에 뭔가 적을 수 있는 그때까지** 🔥 </br>
+- **인천대학교 앱센터 `iOS 개발자`** (2022.10 ~ )</br>
 
 ### 💾 Projects
 
