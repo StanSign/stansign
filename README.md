@@ -8,6 +8,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 <br/>
 
+![Swift] ![C] ![Python]
+
 ### 📚 Education
 
 - **인천대학교 정보기술대학 임베디드시스템공학과 `재학`** (2015.03 ~ )<br/>
@@ -33,3 +35,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 - [🧰 Swift - discardableResult](https://stansign.github.io/blog/Allen15) <br>
 - [🧰 Swift - guard](https://stansign.github.io/blog/Allen14) <br>
 - [🧰 Swift - inout](https://stansign.github.io/blog/Allen13) <br>
+
+[Swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
+[C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
