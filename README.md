@@ -17,7 +17,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 🙋🏻‍♂️ Experiences
 
-- **인천대학교 앱센터 `iOS 개발자`** (2022.10 ~ )</br>
+- **인천대학교 정보전산원 앱센터 `iOS 개발자`** (2022.10 ~ )</br>
 
 ### 💾 Projects
 
