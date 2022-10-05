@@ -25,7 +25,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### ✍ Recent Blog Posts
 
-- [🧰 Swift - 클래스(Class)의 상속과 초기화](https://stansign.github.io/blog/Allen25) <br>
+- [🧰 Swift - 생성자(Init)](https://stansign.github.io/blog/Allen26) <br>
+- [🧰 Swift - 클래스(Class)의 상속](https://stansign.github.io/blog/Allen25) <br>
 - [🧰 Swift - 접근제어와 싱글턴](https://stansign.github.io/blog/Allen24) <br>
 - [🧰 Swift - 메서드(Method)](https://stansign.github.io/blog/Allen23) <br>
 - [🧰 Swift - 속성(Property)](https://stansign.github.io/blog/Allen22) <br>
@@ -34,7 +35,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 - [🧰 Swift - Foundation & UIKit](https://stansign.github.io/blog/Allen19) <br>
 - [🧰 Swift - Enumeration](https://stansign.github.io/blog/Allen18) <br>
 - [🧰 Swift - Collection](https://stansign.github.io/blog/Allen17) <br>
-- [🧰 Swift - Optional](https://stansign.github.io/blog/Allen16) <br>
 
 [Swift]: https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
 [C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
