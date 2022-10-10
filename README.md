@@ -1,6 +1,3 @@
-
-![ChangJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanSign&show_icons=true&theme=yeblu) <br>
-
 <div>
   <a href="https://stansign.github.io/">
 <img
