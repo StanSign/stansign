@@ -3,7 +3,7 @@
 
 ![Swift] ![C] ![Python]
 
- [![StanSign's github stats](https://github-readme-stats.vercel.app/api?username=stansign)](https://github.com/stansign/github-readme-stats)
+ [![StanSign's github stats](https://github-readme-stats.vercel.app/api?username=stansign&show_icons=true&theme=github_dark)](https://github.com/stansign/github-readme-stats)
 
 ### 📚 Education
 
