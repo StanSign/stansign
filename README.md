@@ -3,6 +3,8 @@
 
 ![Swift] ![C] ![Python]
 
+ [![StanSign's github stats](https://github-readme-stats.vercel.app/api?username=stansign)](https://github.com/stansign/github-readme-stats)
+
 ### 📚 Education
 
 - **인천대학교 정보기술대학 임베디드시스템공학과 `재학`** (2015.03 ~ )<br/>
