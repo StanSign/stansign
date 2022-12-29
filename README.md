@@ -8,7 +8,7 @@
 ### 📚 Education
 
 - **인천대학교 정보기술대학 임베디드시스템공학과 `재학`** (2015.03 ~ )<br/>
-- **앨런 Swift문법 마스터 스쿨 `수강 중`** (2022.09 ~ 2022.12)<br/>
+- **앨런 Swift문법 마스터 스쿨 `수료`** (2022.09 ~ 2022.12)<br/>
 
 ### 🙋🏻‍♂️ Experiences
 
@@ -17,6 +17,7 @@
 ### 💾 Projects
 
 - 🏠 **LightMe** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)] <br/>
+- 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub]([https://github.com/StanSign/Capstone-Zigbee](https://github.com/Favor-Gift-Reminder/Favor-iOS))] <br/>
 
 <br/>
 
