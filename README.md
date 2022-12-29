@@ -17,7 +17,7 @@
 ### 💾 Projects
 
 - 🏠 **LightMe** : 알아서 제어해주는 스마트 홈 [[GitHub](https://github.com/StanSign/Capstone-Zigbee)] <br/>
-- 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub]([https://github.com/StanSign/Capstone-Zigbee](https://github.com/Favor-Gift-Reminder/Favor-iOS))] <br/>
+- 🎁 **페이버 - Favor** : 특별한 선물은 기록도 특별하게! [[GitHub](https://github.com/Favor-Gift-Reminder/Favor-iOS)] <br/>
 
 <br/>
 
