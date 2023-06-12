@@ -21,11 +21,11 @@
 
 ### 📝 Recent Posts
 
-- 2023.06.08 | **🍎 Swift - WidgetKit.01** - [[Link](https://nomatterjun.github.io/post/Swift%2F2023-06-08-Swift30)] <br/>
+- 2023.06.12 | **🎊 WWDC23 - SwiftData** - [[Link](https://nomatterjun.github.io/post/WWDC23%2F2023-06-12-WWDC23-03)] <br/>
+- 2023.06.08 | **🍎 Swift - WidgetKit** - [[Link](https://nomatterjun.github.io/post/Swift%2F2023-06-08-Swift30)] <br/>
 - 2023.06.08 | **🎊 WWDC23 - What's new in Swift** - [[Link](https://nomatterjun.github.io/post/WWDC23%2F2023-06-08-WWDC23-02)] <br/>
 - 2023.06.07 | **🎊 WWDC23 - What's new in UIKit** - [[Link](https://nomatterjun.github.io/post/WWDC23%2F2023-06-07-WWDC23-01)] <br/>
 - 2023.05.30 | **🍎 Swift - 인스타그램 스토리로 공유하기** - [[Link](https://nomatterjun.github.io/post/Swift%2F2023-05-30-Swift29)] <br/>
-- 2023.05.06 | **🍎 Swift - RxDataSources와 reloadData** - [[Link](https://nomatterjun.github.io/post/Swift%2F2023-05-07-Swift28)] <br/>
 
 <br/>
 
